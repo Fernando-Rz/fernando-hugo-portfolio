@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi, I&amp;rsquo;m Fernando Rodriguez, I am a software engineer based out of NC currently looking for my next opportunity. With a strong foundation and creative mindset, I&amp;rsquo;m always eager to tackle new challenges and build innovative solutions.&#xA;When I am not coding some of my favorite hobbies include:&#xA;Fitness Soccer Cooking Hiking Music Concerts </description>
+    </item>
   </channel>
 </rss>

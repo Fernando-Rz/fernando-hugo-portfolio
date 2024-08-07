@@ -24,7 +24,7 @@ enableRobotsTXT = true
     # Unique identifier for a menu item
     identifier = "about"
 
-    url = "/about/"
+    url = "/about"
     
     # You can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -41,6 +41,6 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "resume"
+    url = "/resume"
     weight = 2
     
