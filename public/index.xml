@@ -6,13 +6,21 @@
     <description>Recent content on Fernando Rodriguez</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 06 Aug 2024 23:49:30 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 06 Aug 2024 23:49:30 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Fernando Rodriguez Software Engineer&#xA;LinkedIn | GitHub | Email&#xA;Experience Career Break Independent Learning and Development&#xA;Cary, NC&#xA;June 2023 – Present&#xA;Actively growing my skill set using tools like Coursera, Udemy, and other learning platforms Actively developing a social media application in Go called Qooked for users to post, share, and explore food recipes Engaged with professional networks on LinkedIn, Github, and other platforms to stay connected with industry trends and opportunities Currently employed as a construction Site Supervisor.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi, I&amp;rsquo;m Fernando Rodriguez, I am a software engineer based out of NC currently looking for my next opportunity. With a strong foundation and creative mindset, I&amp;rsquo;m always eager to tackle new challenges and build innovative solutions.&#xA;When I am not coding some of my favorite hobbies include:&#xA;Fitness Soccer Cooking Hiking Music Concerts </description>
+      <description>Hi, I&amp;rsquo;m Fernando Rodriguez! I’m a software engineer from NC with a passion for creativity and problem-solving. I am currently on the lookout for my next adventure! I enjoy both frontend and backend development but I also like working with data. I would love to connect on Linkedin and grow my network, so please feel free to reach out!&#xA;In the future I plan on adding a blog onto this site to share projects, and other code related things!</description>
     </item>
   </channel>
 </rss>
