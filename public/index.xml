@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Rodriguez</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.fdrodriguez.com/</link>
     <description>Recent content on Fernando Rodriguez</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Aug 2024 23:49:30 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.fdrodriguez.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://www.fdrodriguez.com/resume/</link>
       <pubDate>Tue, 06 Aug 2024 23:49:30 -0400</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://www.fdrodriguez.com/resume/</guid>
       <description>Fernando Rodriguez Software Engineer&#xA;LinkedIn | GitHub | Email&#xA;Experience Career Break Independent Learning and Development&#xA;Cary, NC&#xA;June 2023 – Present&#xA;Actively growing my skill set using tools like Coursera, Udemy, and other learning platforms Actively developing a social media application in Go called Qooked for users to post, share, and explore food recipes Engaged with professional networks on LinkedIn, Github, and other platforms to stay connected with industry trends and opportunities Currently employed as a construction Site Supervisor.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.fdrodriguez.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.fdrodriguez.com/about/</guid>
       <description>Hi, I&amp;rsquo;m Fernando Rodriguez! I’m a software engineer from NC with a passion for creativity and problem-solving. I am currently on the lookout for my next adventure! I enjoy both frontend and backend development but I also like working with data. I would love to connect on Linkedin and grow my network, so please feel free to reach out!&#xA;In the future I plan on adding a blog onto this site to share projects, and other code related things!</description>
     </item>
   </channel>

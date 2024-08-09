@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://www.fdrodriguez.com/resume/</loc>
     <lastmod>2024-08-06T23:49:30-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.fdrodriguez.com/</loc>
     <lastmod>2024-08-06T23:49:30-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.fdrodriguez.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.fdrodriguez.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.fdrodriguez.com/tags/</loc>
   </url>
 </urlset>
