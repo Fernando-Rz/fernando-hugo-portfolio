@@ -21,7 +21,6 @@ draft: false
 - Monitored Windows and Linux servers ensuring uptime, CPU health, and resolving system issues
 - Handled high-severity incidents, resolving server failures and ensuring business continuity through a ticketing system
 - Managed virtualized infrastructure using VMWare tools, including vSphere, vCenter, and vROps, for server system
-- Supported infrastructure automation and monitoring using tools like AWS, Netpoller, and IPAM
 - Mounted file systems and managed IP assignments, including migrating hosts to new IPs
 - Assisted in EC2 instance migrations to dedicated hosts within AWS infrastructure
 - Installed and configured software on servers, ensuring compatibility and security compliance
