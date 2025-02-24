@@ -13,16 +13,19 @@ draft: false
 
 ## Experience
 
-### **Career Break**  
-**Independent Learning and Development**  
-*Cary, NC*  
-*June 2023 – Present*
+### **Technical Support Analyst**  
+**Duke Energy**  
+*Remote*  
+*October 2024 – Present*
 
-- Actively growing my skill set using tools like Coursera, Udemy, and other learning platforms
-- Actively developing a social media application in Go called Qooked for users to post, share, and explore food recipes
-- Engaged with professional networks on LinkedIn, Github, and other platforms to stay connected with industry trends and opportunities
-- Currently employed as a construction Site Supervisor. As the Site Supervisor I assure each job site has the required material and ensure safety protocols are being followed
-
+- Monitored Windows and Linux servers ensuring uptime, CPU health, and resolving system issues
+- Handled high-severity incidents, resolving server failures and ensuring business continuity through a ticketing system
+- Managed virtualized infrastructure using VMWare tools, including vSphere, vCenter, and vROps, for server system
+- Supported infrastructure automation and monitoring using tools like AWS, Netpoller, and IPAM
+- Mounted file systems and managed IP assignments, including migrating hosts to new IPs
+- Assisted in EC2 instance migrations to dedicated hosts within AWS infrastructure
+- Installed and configured software on servers, ensuring compatibility and security compliance
+- Oversaw server patching processes and ensure critical updates were applied timely
 
 
 ### **Associate Software Engineer**  
@@ -62,7 +65,7 @@ draft: false
 ### **Bachelor of Science in Computer Science**  
 **Western Carolina University**  
 *Cullowhee, NC*  
-*Graduation Date: May 2022*
+
 
 - Minor in Mathematics
 - Relevant coursework: Data Structures, Algorithms, Cloud Computing, Operating Systems, Networks, Databases
@@ -71,22 +74,21 @@ draft: false
 
 ## Skills
 
-- **Languages**: Java, Python, Javascript, Typescript, C, C#, Rust, Golang
-- **Web Technologies**: HTML, CSS, React.js, Redux, Express.js, Node.js, Angular, REST APIs
-- **Tools**: Git, Docker, AWS, Postman, New Relic, Splunk
-- **Databases**: MySQL, PostgreSQL, MongoDB, AWS DynamoDB
-- **Project Management**: Scrum, Jira, Monday, Trello
+- **Languages**: Java, Kotlin, Python, Javascript, Typescript, C, C#, Rust, Golang
+- **Web Technologies**: React.js, Redux, Express.js, Node.js, Spring Boot, Angular, REST APIs
+- **Tools**: Git, Docker, AWS, Postman, New Relic, Splunk, VMWare, Amazon EC2
+- **Databases**: MySQL, PostgreSQL, MongoDB, AWS DynamoDB, CosmosDB
+- **Project Management**: Scrum, Jira, Monday, Trello, ServiceNow
 
 ---
 
 ## Projects
 
 ### **Qooked**
-- Currently in active development
-- Qooked will allow users to post, share, and explore food recipes
-- REST API written in Golang
-- Deployed using Docker and Github workflows
-- Running on an Azure app service
+- A social media platform written in Golang where users can post, share, and explore food recipes
+- Designed and deployed a scalable API on Azure App Service, using CosmosDB for secure data storage
+- Implemented CI/CD pipelines with Docker and Github Actions for automated code deployment
+- Implemented Azure Resource Manager templates for Infrastructure as Code
 
 ### **Forensic Anthropology Database**
 - Developed a Database Application intended to be used by Western Carolina University’s Forensic Anthropology program
