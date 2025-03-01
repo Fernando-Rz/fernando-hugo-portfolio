@@ -13,7 +13,7 @@ draft: false
 
 ## Experience
 
-### **Technical Support Analyst**  
+### **Infrastructure Support Analyst**  
 **Duke Energy**  
 *Remote*  
 *October 2024 – Present*
